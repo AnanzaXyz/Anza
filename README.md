@@ -1,0 +1,1 @@
+1/ Rotor is Solana’s new block propagation protocol introduced in the Alpenglow upgrade. It’s a single layer of relayers that replaces Turbine’s multi-hop, delivering blocks faster and more uniformly across the network 🧵
